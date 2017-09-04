@@ -1,0 +1,301 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="registro">FORMULARIO DE REGISTRO</string>
+    <string name="loggin">Loggin</string>
+    <string name="password">Password</string>
+    <string name="rpassword">Repetir Password</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="male">Masculino</string>
+    <string name="female">Femenino</string>
+    <string name="date">FECHA DE NACIMIENTO</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="tciudad">Lugar de Nacimiento</string>
+    <string name="informacion">Resumen:</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="leer">Leer</string>
+    <string name="ajedrez">Ajedrez</string>
+    <string name="yoga">Yoga</string>
+    <string name="nadar">Nadar</string>
+
+    <string-array name="sDepartamentos">
+        <item>AMAZONAS</item>
+        <item>ANTIOQUIA</item>
+        <item>ARAUCA</item>
+        <item>ATLÁNTICO</item>
+        <item>BOLÍVAR</item>
+        <item>BOYACÁ</item>
+        <item>CALDAS</item>
+        <item>CAQUETÁ</item>
+        <item>CASANARE</item>
+        <item>CAUCA</item>
+        <item>CESAR</item>
+        <item>CHOCÓ</item>
+        <item>CÓRDOBA</item>
+        <item>CUNDINAMARCA</item>
+        <item>DISTRITO CAPITAL</item>
+        <item>GUAJIRA</item>
+        <item>GUANÍA</item>
+        <item>GUAVIARE</item>
+        <item>HUILA</item>
+        <item>MAGDALENA</item>
+        <item>META</item>
+        <item>NARIÑO</item>
+        <item>NORTE DE SANTANDER</item>
+        <item>PUTUMAYO</item>
+        <item>QUINDIO</item>
+        <item>RISARALDA</item>
+        <item>SAN ANDRÉS Y PROVIDENCIA</item>
+        <item>SANTANDER</item>
+        <item>SUCRE</item>
+        <item>TOLIMA</item>
+        <item>VALLE DEL CAUCA</item>
+        <item>VAUPÉS</item>
+        <item>VICHADA</item>
+
+
+    </string-array>
+
+    <string-array name="array_amazonas">
+        <item>Leticia</item>
+        <item>El Encanto</item>
+        <item>La Chorrera</item>
+        <item>La Pedrera</item>
+        <item>Mirití-Paraná</item>
+    </string-array>
+
+    <string-array name="array_antioquia">
+        <item>Medellín</item>
+        <item>Abejorral</item>
+        <item>Abriaquí</item>
+        <item>Alejandría</item>
+        <item>Amagá</item>
+    </string-array>
+    <string-array name="array_arauca">
+        <item>Arauca</item>
+        <item>Arauquita</item>
+        <item>Cravo Norte</item>
+        <item>Fortul</item>
+        <item>Puerto Nariño</item>
+    </string-array>
+    <string-array name="array_atlantico">
+        <item>Barranquilla</item>
+        <item>Baranoa</item>
+        <item>Campo De La Cruz</item>
+        <item>Candelaria</item>
+        <item>Galapa</item>
+    </string-array>
+    <string-array name="array_bolivar">
+        <item>Cartagena</item>
+        <item>Achí</item>
+        <item>Altos Del Rosario</item>
+        <item>Arenal Del Sur</item>
+        <item>Arjona</item>
+    </string-array>
+
+    <string-array name="array_boyaca">
+        <item>Tunja</item>
+        <item>Almeida</item>
+        <item>Aquitania</item>
+        <item>Arcabuco</item>
+        <item>Belén</item>
+    </string-array>
+
+    <string-array name="array_caldas">
+        <item>Manizales</item>
+        <item>Aguadas</item>
+        <item>Anserma</item>
+        <item>Aranzazu</item>
+        <item>Belalcázar</item>
+    </string-array>
+    <string-array name="array_caqueta">
+        <item>Florencia</item>
+        <item>Albania</item>
+        <item>Anserma</item>
+        <item>Belén De Los Andaquíes</item>
+        <item>Curillo</item>
+        <item>Cartagena Del Chaira</item>
+    </string-array>
+
+    <string-array name="array_casanare">
+        <item>Yopal</item>
+        <item>Aguazul</item>
+        <item>Chámeza</item>
+        <item>Hato Corozal</item>
+        <item>La Salina</item>
+    </string-array>
+
+    <string-array name="array_cauca">
+        <item>Popayán</item>
+        <item>Almaguer</item>
+        <item>Altamira</item>
+        <item>Argelia</item>
+        <item>Balboa</item>
+    </string-array>
+
+    <string-array name="array_cesar">
+        <item>Valledupar</item>
+        <item>Aguachica</item>
+        <item>Agustín Codazzi</item>
+        <item>Becerril</item>
+        <item>Bosconia</item>
+    </string-array>
+
+    <string-array name="array_choco">
+        <item>Quibdó</item>
+        <item>Acandí</item>
+        <item>Alto Baudó</item>
+        <item>Atradó</item>
+        <item>Bagadó</item>
+    </string-array>
+    <string-array name="array_cordoba">
+        <item>Montería</item>
+        <item>Ayapel</item>
+        <item>Buenavista</item>
+        <item>Canalete</item>
+        <item>Cereté</item>
+    </string-array>
+    <string-array name="array_cundinamarca">
+        <item>Soacha</item>
+        <item>Agua De Dios</item>
+        <item>Albán</item>
+        <item>Anapoima</item>
+        <item>Anolaima</item>
+    </string-array>
+
+    <string-array name="array_distrito">
+        <item>Bogotá</item>
+        <item>Bosa</item>
+        <item>Engativá</item>
+        <item>Fontibón</item>
+        <item>Sisga</item>
+    </string-array>
+
+    <string-array name="array_guajira">
+        <item>Riohacha</item>
+        <item>Barrancas</item>
+        <item>Dibulia</item>
+        <item>Distracción</item>
+        <item>El Molino</item>
+    </string-array>
+
+    <string-array name="array_guania">
+        <item>Inírida</item>
+        <item>Guaviare</item>
+        <item>Puerto Inírida</item>
+    </string-array>
+
+    <string-array name="array_guaviare">
+        <item>San José Del Guaviare</item>
+        <item>Calamar</item>
+        <item>El Retorno</item>
+        <item>Miraflores</item>
+        <item>Morichal</item>
+    </string-array>
+
+    <string-array name="array_huila">
+        <item>Neiva</item>
+        <item>Acevedo</item>
+        <item>Agrado</item>
+        <item>Aipe</item>
+        <item>Algeciras</item>
+    </string-array>
+
+    <string-array name="array_magdalena">
+        <item>Santa Marta</item>
+        <item>Algarrobo</item>
+        <item>Aracataca</item>
+        <item>Ariguaní</item>
+        <item>Cerro De San Antonio</item>
+    </string-array>
+
+    <string-array name="array_meta">
+        <item>Villavicencio</item>
+        <item>Barranca De Upia</item>
+        <item>Cabuyaro</item>
+        <item>Castilla La Nueva</item>
+        <item>Acacías</item>
+    </string-array>
+
+    <string-array name="array_narino">
+        <item>Pasto</item>
+        <item>Albán</item>
+        <item>Aldana</item>
+        <item>Ancuyá</item>
+        <item>Arboleda</item>
+    </string-array>
+    <string-array name="array_nsantander">
+        <item>Cúcuta</item>
+        <item>Abrego</item>
+        <item>Arboledas</item>
+        <item>Bochalema</item>
+        <item>Bucarasica</item>
+    </string-array>
+    <string-array name="array_putumayo">
+        <item>Mocoa</item>
+        <item>Colón</item>
+        <item>Orito</item>
+        <item>Puerto Asís</item>
+        <item>Puerto Caicedo</item>
+    </string-array>
+    <string-array name="array_quindio">
+        <item>Armenia</item>
+        <item>Barcelona</item>
+        <item>Buenavista</item>
+        <item>Calarcá</item>
+        <item>Circasia</item>
+    </string-array>
+
+    <string-array name="array_risaralda">
+        <item>Pereira</item>
+        <item>Apía</item>
+        <item>Balboa</item>
+        <item>Belén De Umbría</item>
+        <item>Dosquebradas</item>
+    </string-array>
+
+    <string-array name="array_san">
+        <item>San Andrés</item>
+        <item>Providencia</item>
+    </string-array>
+
+    <string-array name="array_santander">
+        <item>Bucaramanga</item>
+        <item>Aguada</item>
+        <item>Albania</item>
+        <item>Aratoca</item>
+        <item>Barbosa</item>
+    </string-array>
+    <string-array name="array_sucre">
+        <item>Sincelejo</item>
+        <item>Betulia</item>
+        <item>Buenavista</item>
+        <item>Caimito</item>
+        <item>Chalán</item>
+    </string-array>
+    <string-array name="array_tolima">
+        <item>Ibagué</item>
+        <item>Alpujarra</item>
+        <item>Alvarado</item>
+        <item>Ambalema</item>
+        <item>Anaime</item>
+    </string-array>
+    <string-array name="array_vcauca">
+        <item>Cali</item>
+        <item>Albán</item>
+        <item>Alcalá</item>
+        <item>Andalucía</item>
+        <item>Ansermanuevo</item>
+    </string-array>
+    <string-array name="array_vaupes">
+        <item>Mitú</item>
+        <item>Carurú</item>
+        <item>Cumaribo</item>
+        <item>La Hormiga</item>
+        <item>La Primavera</item>
+    </string-array>
+
+    <string-array name="array_vichada">
+        <item>Puerto Carreño</item>
+    </string-array>
+
+    </resources>
